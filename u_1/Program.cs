@@ -10,6 +10,8 @@ namespace u_1
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.Green;
+
         }
     }
 }
